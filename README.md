@@ -52,6 +52,10 @@ A curated list of awesome JSON datasets that don't require authentication.
   * [Los Angeles (historical data since 2010)](https://data.lacity.org/api/views/y8tr-7khq/rows.json?accessType=DOWNLOAD)
 
 ## Currency
+* [AllRatesToday Central Bank Rates](https://allratestoday.com/central-bank-rates-api/)
+  * [ECB reference rates](https://allratestoday.com/api/open/central-bank/ecb)
+  * [Federal Reserve H.10](https://allratestoday.com/api/open/central-bank/fed)
+  * [Bank of England](https://allratestoday.com/api/open/central-bank/boe) *(Replace `boe` with any of 121 institution codes)*
 * [Exchange Rate API](https://www.exchangerate-api.com)
   * [USD](https://api.exchangerate-api.com/v4/latest/USD)
   * [GBP](https://api.exchangerate-api.com/v4/latest/GBP)
